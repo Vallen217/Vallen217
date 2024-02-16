@@ -20,7 +20,7 @@ I use Arch, btw
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vallen217&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vallen217&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=d4d7ff&text_color=d4d7ff&icon_color=83a8ec&ring_color=8fe0b4&bg_color=12121f)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vallen217&hide_border=true&background=12121F&stroke=D4D7FF&border=12121F&currStreakNum=D4D7FF&sideNums=8FE0B4&currStreakLabel=D4D7FF&ring=83A8EC&fire=83A8EC&sideLabels=D4D7FF&dates=63658B&excludeDaysLabel=63658B)](https://git.io/streak-stats)
 
